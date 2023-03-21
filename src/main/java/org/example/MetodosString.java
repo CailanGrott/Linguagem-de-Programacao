@@ -1,7 +1,7 @@
 package org.example;
 
 public class MetodosString {
-    public static void main(String[] args) {
+    public void executar() {
         String nome = "Cailan";
         String sobrenome = " Soares Grott";
         String empty = "";
